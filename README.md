@@ -1,6 +1,6 @@
 # Loan Approval & Risk Analysis – Power BI Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing loan approval patterns and credit risk using an interactive **Power BI dashboard**. The dashboard provides insights into approval rates, rejection trends, applicant risk profiles, and financial metrics to support data-driven decision-making in the finance and lending domain.
 
@@ -8,7 +8,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall **loan approval and rejection trends**
 * Identify **risk factors** affecting loan rejection
@@ -17,7 +17,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 📊 Key KPIs
+## Key KPIs
 
 * **Total Applications**
 * **Approved Loans**
@@ -28,7 +28,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 **Source:** Kaggle (Loan Approval Dataset)
 **Records:** 2,000 loan applications
@@ -47,7 +47,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 🔧 Data Cleaning & Transformation (Power Query)
+## Data Cleaning & Transformation (Power Query)
 
 * Renamed columns for clarity and professional naming
 * Corrected data types for numeric and categorical fields
@@ -58,7 +58,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 📐 Data Modeling
+## Data Modeling
 
 * Built a clean single-table model optimized for reporting
 * Created calculated columns and measures using **DAX**
@@ -66,7 +66,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 * KPI cards for instant performance overview
 * Loan approval rate by:
@@ -82,7 +82,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Power BI Desktop**
 * **Power Query** (ETL & data cleaning)
@@ -91,7 +91,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 🧠 Business Insights
+## Business Insights
 
 * Applicants with **higher CIBIL scores and asset values** show significantly higher approval rates
 * Loan rejection increases with **lower income groups and poor credit history**
@@ -100,7 +100,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 * `Loan Approval Project.pbix` – Power BI dashboard file
 * `loan_approval_dataset.csv` – Raw dataset
@@ -108,7 +108,7 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `.pbix` file
 2. Open in **Power BI Desktop**
@@ -117,13 +117,13 @@ The analysis is based on a Kaggle-sourced loan approval dataset containing appli
 
 ---
 
-## 👤 Author
+## Author
 
 **Liza Rani Dash**
 Aspiring Data Analyst | Power BI | SQL | Advanced Excel
 
 ---
 
-## 📌 Notes
+## Notes
 
 This project is intended for **learning, portfolio, and interview demonstration purposes** in the finance and data analytics domain.
